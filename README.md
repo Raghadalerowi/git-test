@@ -6,7 +6,7 @@ author: Raghad alerowi
 <h1 id="data-science">Data Science</h1>
 <h2 id="what-is-data-science">what is data Science</h2>
 <p><strong>Data Science</strong>  is a <em>multidisciplinary field</em> that combines statistics , computer science , and domain knowledge.</p>
-<p><img src="https://drive.google.com/file/d/11N8VniIlsI01BOO9VY1P1KQ6VetWKEDJ/view?usp=sharing" alt=""></p>
+<img src="DS.png" alt="Data science" width="400" height="400">
 <h3 id="data-types">Data types</h3>
 <ul>
 <li>Structured data</li>
